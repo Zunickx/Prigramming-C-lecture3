@@ -1,0 +1,15 @@
+C:\Users\we\Desktop\Programm C#3\Task004_cycle\bin\Debug\net6.0\Task004_cycle.exe
+C:\Users\we\Desktop\Programm C#3\Task004_cycle\bin\Debug\net6.0\Task004_cycle.deps.json
+C:\Users\we\Desktop\Programm C#3\Task004_cycle\bin\Debug\net6.0\Task004_cycle.runtimeconfig.json
+C:\Users\we\Desktop\Programm C#3\Task004_cycle\bin\Debug\net6.0\Task004_cycle.dll
+C:\Users\we\Desktop\Programm C#3\Task004_cycle\bin\Debug\net6.0\Task004_cycle.pdb
+C:\Users\we\Desktop\Programm C#3\Task004_cycle\obj\Debug\net6.0\Task004_cycle.csproj.AssemblyReference.cache
+C:\Users\we\Desktop\Programm C#3\Task004_cycle\obj\Debug\net6.0\Task004_cycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\we\Desktop\Programm C#3\Task004_cycle\obj\Debug\net6.0\Task004_cycle.AssemblyInfoInputs.cache
+C:\Users\we\Desktop\Programm C#3\Task004_cycle\obj\Debug\net6.0\Task004_cycle.AssemblyInfo.cs
+C:\Users\we\Desktop\Programm C#3\Task004_cycle\obj\Debug\net6.0\Task004_cycle.csproj.CoreCompileInputs.cache
+C:\Users\we\Desktop\Programm C#3\Task004_cycle\obj\Debug\net6.0\Task004_cycle.dll
+C:\Users\we\Desktop\Programm C#3\Task004_cycle\obj\Debug\net6.0\refint\Task004_cycle.dll
+C:\Users\we\Desktop\Programm C#3\Task004_cycle\obj\Debug\net6.0\Task004_cycle.pdb
+C:\Users\we\Desktop\Programm C#3\Task004_cycle\obj\Debug\net6.0\Task004_cycle.genruntimeconfig.cache
+C:\Users\we\Desktop\Programm C#3\Task004_cycle\obj\Debug\net6.0\ref\Task004_cycle.dll
